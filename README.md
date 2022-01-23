@@ -1,3 +1,4 @@
+content.json
 # opensource.microsoft.com
 
 The `opensource.microsoft.com` web site is a simple, factual web site sharing information about Microsoft's
